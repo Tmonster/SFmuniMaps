@@ -17,4 +17,4 @@ The map should look like this.
 ![SFMUNI MAP](https://github.com/Tmonster/SFmuniMaps/blob/master/SFMap.jpg "SFMUNI MAP")
 
 If you want to change what is drawn, refer to the instructions on how to access the nextbus xml data located here.
-```http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf```
+http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
